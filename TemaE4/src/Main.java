@@ -11,6 +11,7 @@ public class Main {
         System.out.println("b."+ "(55+9)%9="+ (( d+e)/f));
         System.out.println("c."+ "(20+ -3*5/8="+ ( g+(h*i)/j));
         System.out.println("d."+ "(5+15/3*2-8*3="+ ( g+(h*i)/j));
+        // Nu merge System.out.println("e."+ "5+15/3*2-8%3 ="+ ( k+(l/o)*m) - p/q);
     }
 
 }
